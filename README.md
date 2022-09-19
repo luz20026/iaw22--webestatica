@@ -9,7 +9,7 @@ La idea principal para solucionar este problema es desarrollar una página web l
 # Estilos
 Para el estilo de la página web he seleccionado una triada de colores utilizando la herramienta [Adobe color](https://color.adobe.com), dos de ellos son de tonos amarillos siendo #A6A611  utilizado como el color principal, #F2F218 como el color secundario y #66660A como color complementario.
 
->El estilo de Tipo de letra utilizado fue [Google founts]('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&display=swap')
+>El estilo de Tipo de letra utilizado fue seleccionado con la herramienta Google Fonts font-family: 'Lilita One', cursive.
 
 # Prototipos
 Con la herramienta de edición [Moqups](https://moqups.com) realice prototipos para dar a conocer un poco el concepto que tenía pensado para realizar el diseño de la web, dividiendo la web en cuatro secciones:
